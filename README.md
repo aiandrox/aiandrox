@@ -1,16 +1,15 @@
-## リンク
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aiandrox&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiandrox&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-技術ブログ（永遠に途中）  
+
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/aiandrox/posts.svg)](http://qiita.com/aiandrox)
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/aiandrox/contributions.svg)](http://qiita.com/aiandrox)
+
+
+## 技術ブログ（永遠に途中）  
 https://aiandrox.netlify.app/
 
-Qiita  
-https://qiita.com/aiandrox
-
-Twitter  
-https://twitter.com/aiandrox
-
 ## 個人開発
-
 
 ### Hashlog（ハッシュログ）
 
