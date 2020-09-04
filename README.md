@@ -6,8 +6,8 @@
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/aiandrox/contributions.svg)](http://qiita.com/aiandrox)
 
 
-## 技術ブログ（永遠に途中）  
-https://aiandrox.netlify.app/
+## 技術ブログ
+https://blog.aiandrox.com/
 
 ## 個人開発
 
