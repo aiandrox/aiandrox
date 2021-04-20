@@ -1,5 +1,7 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aiandrox&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiandrox&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aiandrox&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aiandrox&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aiandrox&theme=nord_dark)
 
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/aiandrox/posts.svg)](http://qiita.com/aiandrox)
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/aiandrox/contributions.svg)](http://qiita.com/aiandrox)
